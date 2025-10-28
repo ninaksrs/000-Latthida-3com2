@@ -78,4 +78,4 @@
 40. [ ] 74HC595 Chip
 
 ---
-![Arduino Kit](arduino-kit.jpg)
+![Arduino Kit | 800](arduino-kit.jpg)
